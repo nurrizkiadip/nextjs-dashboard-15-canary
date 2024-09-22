@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="247a93a3-d3b8-44ab-9248-50d50e04930b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
         <option value="CSS File" />
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -40,7 +38,7 @@
     "git-widget-placeholder": "main",
     "javascript.nodejs.core.library.configured.version": "22.4.1",
     "javascript.nodejs.core.library.typings.version": "22.4.2",
-    "last_opened_file_path": "/home/nurrizkiadip/Documents/PEKERJAAN_DICODING/GROWTHPLAN2024/learn-nextjs/nextjs-dashboard-npm",
+    "last_opened_file_path": "/home/nurrizkiadip/Documents/PEKERJAAN_DICODING/GROWTHPLAN2024/learn-nextjs/nextjs-dashboard/app/dashboard/invoices",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -65,6 +63,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/dashboard/invoices" />
+      <recent name="$PROJECT_DIR$/app/dashboard/customers" />
       <recent name="$PROJECT_DIR$/app/dashboard" />
       <recent name="$PROJECT_DIR$/app" />
     </key>
@@ -109,7 +109,7 @@
       <workItem from="1724655693548" duration="430000" />
       <workItem from="1726992457146" duration="1052000" />
       <workItem from="1726993516474" duration="787000" />
-      <workItem from="1726994343790" duration="1729000" />
+      <workItem from="1726994343790" duration="2095000" />
     </task>
     <servers />
   </component>
