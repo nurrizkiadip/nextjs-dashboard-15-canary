@@ -1,6 +1,7 @@
 'use client';
 
 import { MagnifyingGlassIcon } from '@heroicons/react/24/outline';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { ChangeEvent } from "react";
 import { useSearchParams, usePathname, useRouter } from 'next/navigation';
 import {useDebouncedCallback} from "use-debounce";
